@@ -1,4 +1,4 @@
-package leetcode.exercise_2022_10.two_num_sum_17;
+package leetcode.exercise_2022_10;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -10,7 +10,7 @@ import java.util.Objects;
  * https://leetcode.cn/problems/add-two-numbers/
  * @date: 2022/10/17 13:24
  */
-public class two_sum {
+public class two_sum_17 {
 
 
     public static class ListNode {
